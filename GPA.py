@@ -3,13 +3,33 @@ from Tkinter import*
 root = Tk();
 root.title("GPA Calculator")
 
-menu = Menu(root);
-root.config(menu = menu);
+final = Tk();
+final.title("Final Grade Calculator")
+final.withdraw();
 
-subMenu = Menu(menu)
-menu.add_cascade(label = "File", menu = subMenu)  #casacading means adding a drop down menu
-subMenu.add_command(label="GPA Calculator", command = root)
+file = Menu(root);
+root.config(menu = file);
+file1 = Menu(final)
+final.config(menu = file1);
 
+def final_function():
+    root.withdraw()
+    final.deiconify()
+
+
+def root_function():
+    root.deiconify();
+    final.withdraw();
+
+subMenu = Menu(file)
+file.add_cascade(label = "File", menu = subMenu)  #casacading means adding a drop down menu
+subMenu.add_command(label="GPA Calculator", command = root_function)
+subMenu.add_command(label="Final Grade Calculator", command = final_function)
+
+subMenu = Menu(file1)
+file1.add_cascade(label = "File", menu = subMenu)  #casacading means adding a drop down menu
+subMenu.add_command(label="GPA Calculator", command = root_function)
+subMenu.add_command(label="Final Grade Calculator", command = final_function)
 
 
 #Below is code for GPA Calculator
@@ -62,4 +82,56 @@ submit = Button(root, text = "Submit", command = calculator)
 submit.grid(row = "6", column = "0")
 
 
+#-------------------------------------------------------------------------------------------------
+Lab1 = Label(final, text="Current Grade")
+Lab2 = Label(final, text="Required Class Grade")
+Lab3 = Label(final, text="Final Exam Weight")
+
+Lab1.grid(row = "0", column = "0");
+Lab2.grid(row = "1", column = "0");
+Lab3.grid(row = "2", column = "0");
+
+Ent1 = Entry(final)
+Ent2 = Entry(final)
+Ent3 = Entry(final)
+Ent4 = Entry(final)
+
+Ent1.grid(row = "0",column = "1")
+Ent2.grid(row = "1",column = "1")
+Ent3.grid(row = "2",column = "1")
+Ent4.grid(row = "3",column = "1")
+
+def calculate():
+    current_Grade = float(Ent1.get())
+    required_Grade = float(Ent2.get())
+    weight = float(Ent3.get())
+
+    Goal_Grade = (100*required_Grade-(100-weight)*current_Grade)/weight
+    Ent4.insert(0,Goal_Grade)
+
+
+
+
+calculate = Button(final, text = "Calculate", command = calculate)
+calculate.grid(row = "3", column = "0")
+
 root.mainloop();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
