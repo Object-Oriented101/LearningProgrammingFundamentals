@@ -1,5 +1,2 @@
 # LearningProgrammingFundamentals
-This repository will consist of my projects as a begginer programmer who is entering the realm of computer science. All these projects were
-
-
-THIS IS A TEST
+This repository will consist of my projects as a begginer programmer who is entering the realm of computer science.
