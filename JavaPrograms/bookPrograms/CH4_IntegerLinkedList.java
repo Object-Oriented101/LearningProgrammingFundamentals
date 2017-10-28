@@ -32,11 +32,17 @@ public class CH4_IntegerLinkedList {
 	public void setValue(int input){
 		storedValue = input;
 	}
-	public void setNext(CH4_IntegerLinkedList input){
+	public void setNext(CH4_IntegerLinkedList input){ //this is also used to delete a node by changing the reference
 		next = input;
 	}
 	
 	
+	//----------------------------Adding a Node---------------------
+	public void addNode(CH4_IntegerLinkedList before,CH4_IntegerLinkedList after){
+		before.setNext(this);
+		this.setNext(after);
+		
+	}
 
 	
 	

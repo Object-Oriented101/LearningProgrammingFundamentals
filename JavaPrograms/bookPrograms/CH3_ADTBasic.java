@@ -42,7 +42,7 @@ public class CH3_ADTBasic {
 	//If the array size is exceeded, then size is double--------------------------------------------
 	private void incArraySize(){
 		int[] newArray = new int[size+1];
-		size = size+1;
+		//size = size+1;
 		for(int i = 0; i < dataset.length; i++){
 			newArray[i] = dataset[i];
 		}
