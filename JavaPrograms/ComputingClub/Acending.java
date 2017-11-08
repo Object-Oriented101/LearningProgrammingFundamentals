@@ -42,7 +42,7 @@ public class Acending {
 			add = 0;
 			constant = 1;
 
-			if(input.length() < left.length()){ //checks to see if impossible to get higher number near the end
+			if(input.length() < left.length() || input.length() == 0){ //checks to see if impossible to get higher number near the end
 				break;
 			}
 
@@ -63,6 +63,10 @@ public class Acending {
 				}
 				//--------------------------------------Compares Number on the right with the new number on the left---------------------------------------
 
+			}
+			
+			if(input.length() < left.length()  || input.length() == 0){ //checks to see if impossible to get higher number near the end
+				break;
 			}
 
 			left = input.substring(0,1); //resets the left number because changes after deletion
