@@ -7,17 +7,17 @@ public class CH4_IntegerLinkedListExecution {
 	 */
 	public static void main(String[] args) {
 
-		CH4_IntegerLinkedList sixth = new CH4_IntegerLinkedList(6); 
-		CH4_IntegerLinkedList fifth = new CH4_IntegerLinkedList(5,sixth);
-		CH4_IntegerLinkedList fourth = new CH4_IntegerLinkedList(4,fifth);
-		CH4_IntegerLinkedList third = new CH4_IntegerLinkedList(3,fourth);
-		CH4_IntegerLinkedList second = new CH4_IntegerLinkedList(2,third);
-		CH4_IntegerLinkedList first = new CH4_IntegerLinkedList(1,second);
-		CH4_IntegerLinkedList head = new CH4_IntegerLinkedList(first);
+		CH4_Node sixth = new CH4_Node(6); 
+		CH4_Node fifth = new CH4_Node(5,sixth);
+		CH4_Node fourth = new CH4_Node(4,fifth);
+		CH4_Node third = new CH4_Node(3,fourth);
+		CH4_Node second = new CH4_Node(2,third);
+		CH4_Node first = new CH4_Node(1,second);
+		CH4_Node head = new CH4_Node(first);
 
 		//Printing out all the data in a Linked List
 		System.out.println("Starting Set: ");
-		for(CH4_IntegerLinkedList current = head; current != null; current = current.getNext()){
+		for(CH4_Node current = head; current != null; current = current.getNext()){
 			//initialization = the start is with the starting point in the Linkedlist, the head
 			//the last node will have a value that is null 
 			System.out.print(current.getValue() +" ");
@@ -26,7 +26,7 @@ public class CH4_IntegerLinkedListExecution {
 		System.out.println();
 		second.setNext(fourth);//this line deletes the third node by changing the reference to the one ahead
 		System.out.println("Deleting a Node: ");
-		for(CH4_IntegerLinkedList current = head; current != null; current = current.getNext()){
+		for(CH4_Node current = head; current != null; current = current.getNext()){
 			System.out.print(current.getValue() +" ");
 		}
 		
@@ -34,7 +34,7 @@ public class CH4_IntegerLinkedListExecution {
 		System.out.println();
 		third.addNode(second,fourth);
 		System.out.println("Inserting a Node: ");
-		for(CH4_IntegerLinkedList current = head; current != null; current = current.getNext()){
+		for(CH4_Node current = head; current != null; current = current.getNext()){
 		
 			System.out.print(current.getValue() +" ");
 		}
