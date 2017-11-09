@@ -22,24 +22,12 @@ public class CH4_IntegerLinkedListExecution {
 			//the last node will have a value that is null 
 			System.out.print(current.getValue() +" ");
 		}
-		
+
 		System.out.println();
 		second.setNext(fourth);//this line deletes the third node by changing the reference to the one ahead
 		System.out.println("Deleting a Node: ");
 		for(CH4_Node current = head; current != null; current = current.getNext()){
 			System.out.print(current.getValue() +" ");
 		}
-		
-		
-		System.out.println();
-		third.addNode(second,fourth);
-		System.out.println("Inserting a Node: ");
-		for(CH4_Node current = head; current != null; current = current.getNext()){
-		
-			System.out.print(current.getValue() +" ");
-		}
-		
-	
 	}
-
 }

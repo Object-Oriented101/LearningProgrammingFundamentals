@@ -2,20 +2,20 @@ package bookPrograms;
 
 public class CH6_StackReference implements CH6_StackInterface{
 
-	public CH4_Node top;
+	private CH4_Node top;
 
 	public CH6_StackReference(){
 		top = null; //head is always null
 	}
+	
 	public boolean isEmpty() {
 		if(top == null){
 			return true;
 		}else return false; 
 	}
 
-	public void push(Object newItem) {
-		top = new CH4_Node(newItem,top);
-
+	public void push(Object input) {
+		top = new CH4_Node(input,top); // at this point in time, the top in the parenthesis is still the old top
 	}
 
 	public Object pop() {
@@ -39,8 +39,4 @@ public class CH6_StackReference implements CH6_StackInterface{
 			return "Stack is empty";
 		}
 	}
-
-
-
-
 }
