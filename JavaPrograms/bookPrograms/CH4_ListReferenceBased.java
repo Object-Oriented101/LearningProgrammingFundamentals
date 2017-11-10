@@ -25,7 +25,7 @@ public class CH4_ListReferenceBased implements CH4_ListInterface{
 		}
 		return curr;
 	}
-	public void add(int index, Object item) throws Exception {
+	public void add(int index, Object item) {
 
 		if(index >= 1 && index <= numItems+1){ //not zero indexed
 			if(index == 1){
@@ -38,7 +38,7 @@ public class CH4_ListReferenceBased implements CH4_ListInterface{
 			}
 			numItems++;
 		}else{
-			throw new Exception("List index out of bounds");
+			System.out.println("List index out of bounds");
 		}
 
 	}
@@ -52,7 +52,8 @@ public class CH4_ListReferenceBased implements CH4_ListInterface{
 				CH4_Node currprevious = find(index - 1);
 				CH4_Node curr = currprevious.getNext();
 				currprevious.setNext(curr.getNext());
-			}numItems--;
+			}
+			numItems--;
 		}else{
 			System.out.println("Index is out of range");
 		}
