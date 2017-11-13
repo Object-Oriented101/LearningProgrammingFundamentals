@@ -8,8 +8,8 @@ public class CH4_Node {
 	
 	
 	//----------------------THE CONSTRUCTORS-----------------------------
-	public CH4_Node(int input){ //if only the value is given, invoke this constructor
-		storedValue = input;
+	public CH4_Node(Object newItem){ //if only the value is given, invoke this constructor
+		storedValue = newItem;
 		next = null;
 	}
 	public CH4_Node(Object newItem, CH4_Node in_object){ //if both are given, put the values in respectively

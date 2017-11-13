@@ -8,10 +8,10 @@ class CowTime
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		Scanner sc = new Scanner(new File("//home//reality//Documents//TextFiles//CowTimeFile"));
+		Scanner sc = new Scanner(new File("//home//reality//Documents//LearningProgrammingFundamentals//JavaPrograms//TextFiles//CowTimeFile"));
 
 		int max = sc.nextInt();
-		System.out.println(max);
+		//System.out.println(max);
 		int[][] holder = new int[max][2]; //creates the array that will hold all the times together
 		int TIME = 0;// This variable holds the current time
 
@@ -21,7 +21,7 @@ class CowTime
 		}
 		
 		sorter(holder);
-		printer(holder);
+		//printer(holder);
 		
 		for(int i = 0; i < max; i++){
 			if(i + 1 == max){
