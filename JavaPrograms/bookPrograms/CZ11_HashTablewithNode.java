@@ -28,7 +28,7 @@ public class CZ11_HashTablewithNode {
 			}
 		}
 	}
-	
+
 	public  void add(int input) {
 		int index = Hash(input);
 		if(array[index] == null) {
@@ -37,27 +37,27 @@ public class CZ11_HashTablewithNode {
 			recursiveSolution(array[index], input);
 		}
 	}
-	
+
 	public void recursiveSolution(CH4_Node input, int value) {
 		if(input.getNext() == null) {
 			input.setNext(new CH4_Node(value));
 			return;
 		}
 		recursiveSolution(input.getNext(), value);
-		
+
 	}
-	
+
 	public int find(int target) {
 		int index = Hash(target);
 		if(array[index] == null) {
 			System.out.println("This element isn't present in the array");
 			return -1;
 		}else {
-			
+
 			return index;
 		}
-		
-		
+
+
 	}
 
 
