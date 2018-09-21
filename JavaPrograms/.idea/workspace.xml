@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28535aee-a49a-4e07-a176-4a53de99d72c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/TextFiles/PrintCipherText" beforeDir="false" afterPath="$PROJECT_DIR$/TextFiles/PrintCipherText" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/ACSL_NinetyNineSenior_PrajeetSangamnerkar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/Acending.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/AcendingSys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/CH7_SimulationText" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/CowRouting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/CowTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/CowTimeFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/Enclosure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/EnclosureWorks1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/FencePainting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/LostCowProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/NinetyNineNewLogicFail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/NinetyNineSeniorWorkingCopy1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/NinetyNineWorkingCopy1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/NinetyNineWorkingCopy2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/intermediate_Prajeet_Sangamnerkar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ComputingClub/senior_Prajeet_Sangamnerkar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RandomPrograms/AppendingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RandomPrograms/CipherText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RandomPrograms/HotPotato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RandomPrograms/PostfixConvertor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RandomPrograms/Sort_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RandomPrograms/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RandomPrograms/check2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/ACSL_Ninety-Nine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/ACSL_Ninety-Nine-Senior" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/CH7_SimulationText" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/CipherTxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/Command" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/CowRoutingFlightPattern" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/CowTimeFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/FencePaintingData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/LostCowLocation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/TextFiles/PrintCipherText" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH2_BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH2_Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH2_Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH2_StringRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH2_Towers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH2_numBackward.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH4_ADTBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH4_ADTBasicExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH4_IntegerLinkedListExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH4_ListInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH4_ListReferenceBased.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH4_ListReferenceBasedExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH4_Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_PostfixExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_PostfixImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_StackADTList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_StackADTListExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_StackArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_StackArrayExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_StackInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_StackReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH6_StackReferenceExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH7_QueueArrayBased.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH7_QueueExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH7_QueueInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH7_QueueListBased.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH7_QueueReferenceBased.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH7_Simulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CH7_SimulationText" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ10_BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ10_BinaryTreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ10_TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ11_HashNodeExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ11_HashTables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ11_HashTablewithNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ11_Heap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bookPrograms/CZ11_HeapExecution.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="TextFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28535aee-a49a-4e07-a176-4a53de99d72c" name="Default" comment="" />
+      <created>1523146143112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523146143112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1926" height="1050" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32946146" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bookPrograms/CH2_Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookPrograms/CH2_Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookPrograms/CH2_Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
