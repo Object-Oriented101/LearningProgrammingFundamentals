@@ -1,7 +1,7 @@
 from Tkinter import*
 from random import randint
 root = Tk();
-root.title("Unit Circle Practice")
+ root.title("Unit Circle Practice")
 
 
 check = [['sin(30)','1/2'],['sin(45)', '2/2'],['sin(60)','3/2'],['sin(90)', '1'],['cos(30)', '3/2'],['cos(45)', '2/2'],['cos(60)','1/2'],['cos(90)','0'],
