@@ -20,7 +20,6 @@ headers = "Product Name, Price\n"
 f.write(headers)
 
 for container in containers:
-
    # brand_container = container.find_all("a", {"class":"item-brand"})
     #brand = container.div.div.a.img["title"]
    try:
